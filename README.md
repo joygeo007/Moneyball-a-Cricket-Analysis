@@ -1,6 +1,6 @@
 # Moneyball-a-Cricket-Analysis
 
-![project poster](Poster_DS1.jpg)
+![project poster](poster.png)
 
 
 ## Project Description
